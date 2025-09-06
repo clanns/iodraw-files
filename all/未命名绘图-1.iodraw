@@ -35,8 +35,8 @@
           <mxGeometry x="850" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pNG16BKRG5seMdR9kU3G-13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-10" target="pNG16BKRG5seMdR9kU3G-12">
-          <mxGeometry x="-0.0588" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-1" y="78" relative="1" as="geometry">
+            <mxPoint x="-60" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pNG16BKRG5seMdR9kU3G-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-10" target="pNG16BKRG5seMdR9kU3G-0">
