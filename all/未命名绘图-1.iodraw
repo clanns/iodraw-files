@@ -40,7 +40,7 @@
         <mxCell id="pNG16BKRG5seMdR9kU3G-8" value="获得最优解" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1050" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pNG16BKRG5seMdR9kU3G-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-10" target="pNG16BKRG5seMdR9kU3G-12">
+        <mxCell id="pNG16BKRG5seMdR9kU3G-13" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-10" target="pNG16BKRG5seMdR9kU3G-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pNG16BKRG5seMdR9kU3G-10" value="是否迭代结束" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
