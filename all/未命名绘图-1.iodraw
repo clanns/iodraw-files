@@ -19,7 +19,7 @@
         <mxCell id="pNG16BKRG5seMdR9kU3G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-2" target="pNG16BKRG5seMdR9kU3G-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pNG16BKRG5seMdR9kU3G-2" value="选择优先部分保留，其余进行选择、交叉变异等操作" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#331A00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pNG16BKRG5seMdR9kU3G-2" value="选择优先部分保留，其余进行选择、交叉变异等操作" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#003366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pNG16BKRG5seMdR9kU3G-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pNG16BKRG5seMdR9kU3G-4" target="pNG16BKRG5seMdR9kU3G-6">
